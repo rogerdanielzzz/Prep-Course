@@ -1,0 +1,23 @@
+
+ * Variables
+    Las variables es una forma de guardar un dato o valor para ser ultilizado mas tarde de manera comoda y clara.
+ * Strings
+    Es un tipo de dato de JS el cual en resumidas cuenta es solo texto 
+
+ * Funciones (argumentos, `return`)
+    Las funciones son objetos en los cuales guardamos instrucciones para ser ejectuadas mas adelante de manera comoda,
+    cuentan con argumentos los cuales son son variables que pueden tener valores entradas para devolvernos otros datos
+    como tienen su scope local para poder obtener el valor que nos devuelve fuera de la funcion debemos colocar un return al final
+    y despues de este terminan las instruccionesde la funcion.
+
+
+ * Declaraciones `if`
+    controlan el flujo de nuestro codigo comprueban una  condicion la cual si se cumple se ejecturara o no (depende de nuestras instrucciones)
+    mas lineas de codigos, pueden ser operaciones de comparacion entre otras.
+    
+ * Valores booleanos (`true`, `false`)
+
+    Representan un valor de opciones cerradas es decir verdadero o falso, si o no, 0 o 1 se pueden usar para comprobar condiciones
+    o la existencias de casos.
+
+    Roger Pérez
