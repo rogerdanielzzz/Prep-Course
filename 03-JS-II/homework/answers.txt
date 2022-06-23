@@ -1,0 +1,20 @@
+
+* `for`
+   es un statement que se usa para ejecutar codigo en bucle hasta que se cumpla una condicion 
+   por lo general se establece una variable con un valor de inicio, una condicion que rompa el bucle y 
+   un modificador que modifique la variable por cada ciclo de codigo.
+
+* `&&`, `||`, `!`
+
+son operadores logicos ultilizados para tener varias expresiones como condiciones,
+ejemplo 
+
+el && se usa cuando quieres que cumpla dos condiciones de manera mutuamente excluyente
+
+el || es un or es decir que puede cumplirse cualquiera de las dos condiciones y ejecturar el codigo
+
+ el ! es un Not el cual ejecutara el codigo si solo si la condicion no se cumple 
+es decir lo contrario a la expresion declarada.
+  
+  
+    Roger Pérez
