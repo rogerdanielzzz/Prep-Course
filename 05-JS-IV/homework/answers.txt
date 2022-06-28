@@ -1,0 +1,23 @@
+	
+	* Objetos
+   es un ente que tiene caracteristicas y comportamientos, se suele usar como plantillas para guardar informacion de forma ordenada y reutilizable
+
+
+
+
+	* Propiedades
+   atributos y caracteristicas del objeto se suelen guardar en keys, estan definen el estado y comportamiento
+
+
+	* Métodos
+   son fuciones dentro del objeto el cual se pueden llamar para que este realice acciones.
+
+	* Bucle `for…in`
+   es una forma de recorrer e iterar las key de un objeto es un statement
+
+	* Notación de puntos vs notación de corchetes
+
+      son formas de acceder a los valores de las key una se basa en el mnombre del elemento[key] y la otra elemento.key, se suele decir que se recomiendo trabajar con la de corchete ya que permite mas ordenada
+
+
+   Roger Pérez
