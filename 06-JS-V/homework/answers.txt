@@ -1,0 +1,8 @@
+* `prototype`
+es un mecanismos en el cual se asigna la herencia de caracteristicas entre objetos 
+
+* _Constructors_ (de Clases)
+
+son plantillas para crear objetos dde manera rapida y escalable 
+
+Roger Pérez
