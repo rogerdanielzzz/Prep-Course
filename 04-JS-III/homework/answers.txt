@@ -1,0 +1,4 @@
+	* Arrays
+   Son un tipo de datos los cuales contienen una coleccion de otros tipos de datos, estos tienen sus propios metodos los cuales facilitan las operaciones con los datos dentros de el.
+
+   Roger Pérez
